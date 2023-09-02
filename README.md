@@ -56,7 +56,7 @@
 
 - #### Clique aqui -> https://threads-omega-ten.vercel.app
 
-### Para execitar
+### Para executar
 
 - .env.local - Para configurar as variaveis de ambiente
 - npm install - Para instalar os pacotes
