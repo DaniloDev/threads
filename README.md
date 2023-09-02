@@ -1,34 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Threads Clone - Full Stack MERN Next.js 13 | React, Next JS, TypeScript, MongoDB
 
-## Getting Started
+![preview img](/preview.png)
 
-First, run the development server:
+## Threads Clone
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+📚https://threads-omega-ten.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## What did I do in this project?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.js 13.4 with server-side rendering
+- Complex schemas and multiple data population in MongoDB
+- Layouts created with TailwindCSS
+- Clerk for authentication
+- UploadThing to handle file uploads
+- Shadcn for component usage
+- Webhooks real-time events (Clerk)
+- Middleware, API actions and authorization
+- New Next.js layout route groups
+- Data validation with Zod
+- Manage forms with reaction hook form
+- Create reusable components
+- Solid application architecture
+- Deploy at Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- #### Click here -> https://threads-omega-ten.vercel.app
 
-## Learn More
+### To execute
 
-To learn more about Next.js, take a look at the following resources:
+- .env.local - To configure environment variables
+- npm install - To install packages
+- npm run dev - To run the application
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  ####################################### **Portuguese below** #####################################################
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Threads Clone
 
-## Deploy on Vercel
+📚https://threads-omega-ten.vercel.app
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## O que eu fiz nesse projeto ?
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Next.js 13.4 com renderização no lado do servidor
+- Esquemas complexos e população de dados múltiplos no MongoDB
+- Layouts criados com TailwindCSS
+- Clerk para autenticação
+- UploadThing para lidar com uploads de arquivos
+- Shadcn para uso de componentes
+- Webhooks eventos em tempo real (Clerk)
+- Middleware, ações de API e autorização
+- Novos grupos de rotas de layout Next.js
+- Validação de dados com Zod
+- Gerenciar formulários com reaction hook form
+- Criei componentes reutilizáveis
+- Arquitetura de aplicativo sólida
+- Deploy na Vercel
+
+- #### Clique aqui -> https://threads-omega-ten.vercel.app
+
+### Para execitar
+
+- .env.local - Para configurar as variaveis de ambiente
+- npm install - Para instalar os pacotes
+- npm run dev - Para rodar a aplicação
